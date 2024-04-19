@@ -1,0 +1,22 @@
+button{
+    padding: 1em 2em;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: whitesmoke;
+    margin-top: 2em;
+    text-align: center;
+
+    
+
+}
+.content{
+background-color:aqua;
+height:
+}
+.hero{
+    height: 600px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
